@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ai-agents-banner.png" alt="A network of collaborating AI agents connected to tools and data" width="100%" />
+</p>
+
 # Hi, I'm Ashkan 👋
 
 I build AI-powered tools and agentic workflows that turn language models into useful, reliable systems.
