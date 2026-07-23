@@ -1,16 +1,21 @@
 # Hi, I'm Ashkan 👋
 
-I build practical software and embedded systems, with a focus on STM32, sensor integration, low-level debugging, and networking.
+I build AI-powered tools and agentic workflows that turn language models into useful, reliable systems.
 
-## Current focus
+## Main focus
 
-- Embedded C/C++ and ARM Cortex-M
-- STM32 firmware and peripheral drivers
-- Sensor integration and hardware–software debugging
-- Open-source networking tools
+- AI agents and multi-agent systems
+- LLM applications, tool use, and workflow automation
+- Model Context Protocol (MCP) and API integrations
+- Retrieval, evaluation, and reliable agent behavior
+
+## Technical background
+
+- Embedded C/C++, STM32, and ARM Cortex-M
+- Sensor integration, networking, and hardware–software debugging
 
 ## What you'll find here
 
-Projects with clear documentation, reproducible setup steps, and focused commit history.
+Practical experiments and projects around agents, automation, and AI-assisted development—with clear documentation and reproducible setup steps.
 
-> Building carefully, debugging methodically, and shipping useful things.
+> Building agents that can reason, use tools, and get real work done.
