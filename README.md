@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ashkan 👋
 
-<!--
-**Mr-Ashkan/Mr-Ashkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software and embedded systems, with a focus on STM32, sensor integration, low-level debugging, and networking.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded C/C++ and ARM Cortex-M
+- STM32 firmware and peripheral drivers
+- Sensor integration and hardware–software debugging
+- Open-source networking tools
+
+## What you'll find here
+
+Projects with clear documentation, reproducible setup steps, and focused commit history.
+
+> Building carefully, debugging methodically, and shipping useful things.
